@@ -1,0 +1,97 @@
+
+.product{
+  font-size: 64px;
+line-height: 96px;
+color: #9C8F8F;
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+}
+.container {
+    width: 1274px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    margin: 0 -15px;
+}
+.title{
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 'bold',sans-serif;
+font-size: 24px;
+line-height: 36px;
+padding-top: 28px;
+padding-left: 17px;
+text-align: left;
+}
+.subtitle{
+    font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+padding-bottom: 26px;
+padding-left: 11px;
+
+}
+.wrapper{
+    background: #FDFBC6;;
+    border-radius: 10px;
+   
+}
+.wrapper1{
+    background: rgba(85, 244, 30, 0.23);
+border-radius: 10px;
+
+margin-left: 30px;
+}
+.wrapper2{
+    background: rgba(254, 156, 102, 0.22);
+border-radius: 10px;
+
+margin-left: 30px;
+}
+.wrapper3{
+    background: rgba(220, 235, 249, 0.47);
+border-radius: 10px;
+
+margin-left: 30px;
+}
+.btn{
+    background: #2E66F5;
+border-radius: 30px;
+width: 296px;
+height: 58px;
+border: 2px solid#3E8AFC;
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+margin-top: 60px;
+}
+.btn:hover{
+    background-color: white;
+    color: #2E66F5; 
+}
+.btn2{
+    background: #2E66F5;
+    border-radius: 30px;
+    width: 296px;
+    height: 58px;
+    border: 2px solid#3E8AFC;
+    font-family: 'Roboto',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.btn2:hover{
+    background-color: white;
+    color: #2E66F5; 
+}
